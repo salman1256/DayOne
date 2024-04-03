@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ccmxdxAN+Pi6nhpbEQ4UMv3XTDT0dIalzle6eoSByGc=",
+  "Source": "SimpleServiceOne",
+  "BasePath": "_content/SimpleServiceOne",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
